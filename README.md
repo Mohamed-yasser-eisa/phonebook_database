@@ -4,7 +4,7 @@ build date of this project: (9 May, 2021)
 
 1- Project description:
 
-    This project is a databae system which allows the user to store a list of: 
+    This project is a database system which allows the user to store a list of: 
     (phone numbers, names, emails, national IDs) in a text file. And allows the 
     user to: (Add new client – view list – edit – search – delete – exit). 
     
