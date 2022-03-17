@@ -1,6 +1,9 @@
 # phonebook_database
 
-build date of this project: (9 May, 2021)
+Build date: (9 May, 2021)
+
+This project was an individual task, it was required from us in the Embedded 
+Systems class. I built the whole project by myself.
 
 1- Project description:
 
@@ -11,7 +14,8 @@ build date of this project: (9 May, 2021)
     
 2- Covered topics in C: 
 
-    (I/O files, conditions, loops, Struct, functions, data structure, data types, and arrays). 
+    (I/O files, conditions, loops, Struct, functions, data structure, data types, 
+    and arrays). 
 
 
 3- Tools:
@@ -24,13 +28,4 @@ build date of this project: (9 May, 2021)
     4.2- (phonebook.h) it contains the prototypes of all functions.
     4.3- (phonebook.c) it contains implementations of all functions.
     4.4- (project_statement.PNG) an image shows the requirements on the database.
-
-
-
-
-
-
-
-
-
 
